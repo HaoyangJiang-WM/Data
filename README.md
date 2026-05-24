@@ -5,9 +5,9 @@ A deployable Vite + React + Tailwind personal academic homepage for Haoyang Jian
 ## Features
 
 - White, clean research homepage design
-- Personal hero photo from `public/profile.svg`
+- Personal hero photo from `public/profile.jpg`
 - Research, projects, publications, and contact sections
-- No external icon package dependency; icons are inline SVG React components
+- No external icon package dependency
 - Vitest test coverage for rendering, navigation data, profile photo, and scrolling helper
 - GitHub Pages workflow included
 
